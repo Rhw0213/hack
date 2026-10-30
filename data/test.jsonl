@@ -1,0 +1,30 @@
+{"id": "tn001", "label": "normal", "category": "택배", "text": "[CJ대한통운] 고객님의 상품이 배송 출발하였습니다. 오늘 13~15시 도착 예정입니다. 운송장번호 6218-4407-1953 배송조회 www.cjlogistics.com", "novel": false, "from_contact": false}
+{"id": "tn002", "label": "normal", "category": "택배", "text": "[한진택배] 상품이 무인택배함 3번에 보관되었습니다. 인증번호 [902114] 입력 후 꺼내 가세요.", "novel": false, "from_contact": false}
+{"id": "tn003", "label": "normal", "category": "택배", "text": "[우체국택배] 오늘 배달 예정입니다. 받으실 분 김영희님, 담당 집배원 010-0000-7781", "novel": false, "from_contact": false}
+{"id": "tn004", "label": "normal", "category": "택배", "text": "[쿠팡] 반품 회수가 완료되었습니다. 환불은 2~3영업일 안에 결제수단으로 처리됩니다.", "novel": false, "from_contact": false}
+{"id": "tn005", "label": "normal", "category": "택배", "text": "[롯데택배] 동·호수가 확인되지 않아 배송이 보류되었습니다. 고객센터 1588-2121로 연락 주시면 바로 다시 배송해 드리겠습니다.", "novel": false, "from_contact": false}
+{"id": "tn006", "label": "normal", "category": "공공기관", "text": "[국민건강보험공단] 이철수님은 올해 위암 검진 대상입니다. 12월 31일까지 무료로 받으실 수 있습니다. 문의 1577-1000", "novel": false, "from_contact": false}
+{"id": "tn007", "label": "normal", "category": "공공기관", "text": "[국민연금공단] 내년 1월부터 물가 변동률을 반영해 월 연금액이 조정됩니다. 자세한 내용은 우편 안내문을 참고하세요.", "novel": false, "from_contact": false}
+{"id": "tn008", "label": "normal", "category": "공공기관", "text": "[정부24] 전입신고 처리가 완료되었습니다. 확인은 www.gov.kr에서 하실 수 있습니다.", "novel": false, "from_contact": false}
+{"id": "tn009", "label": "normal", "category": "공공기관", "text": "[행정안전부] 오늘 21시 대설주의보 발효. 내 집 앞 눈 치우기에 협조 바랍니다.", "novel": false, "from_contact": false}
+{"id": "tn010", "label": "normal", "category": "공공기관", "text": "[행복구 보건소] 홍길동님 대상포진 예방접종 예약일은 11월 12일 오후 2시입니다. 신분증을 지참해 주세요.", "novel": false, "from_contact": false}
+{"id": "tn011", "label": "normal", "category": "가족", "text": "엄마 저녁 몇 시에 와?", "novel": false, "from_contact": true}
+{"id": "tn012", "label": "normal", "category": "가족", "text": "아빠 주말에 김장 도와드리러 갈게요", "novel": false, "from_contact": true}
+{"id": "tn013", "label": "normal", "category": "가족", "text": "할머니 생신 축하드려요! 오래오래 건강하세요", "novel": false, "from_contact": true}
+{"id": "tn014", "label": "normal", "category": "가족", "text": "여보 우산 챙겨 가요. 오후에 비 온대", "novel": false, "from_contact": true}
+{"id": "tn015", "label": "normal", "category": "가족", "text": "엄마 내가 보낸 사진 봤어? 손주 유치원 발표회야", "novel": false, "from_contact": true}
+{"id": "tn016", "label": "normal", "category": "금융", "text": "[Web발신]\n[KB국민은행] 입금 1,200,000원 국민연금 잔액 2,031,500원 11/25 10:02", "novel": false, "from_contact": false}
+{"id": "tn017", "label": "normal", "category": "금융", "text": "[신한카드] 승인 홍*동 15,000원 일시불 11/06 11:20 행복약국", "novel": false, "from_contact": false}
+{"id": "tn018", "label": "normal", "category": "금융", "text": "[하나은행] 인증번호 [558201] 타인에게 노출하지 마세요.", "novel": false, "from_contact": false}
+{"id": "tn019", "label": "normal", "category": "금융", "text": "[우리카드] 분실 신고하신 카드의 사용이 즉시 정지되었습니다. 새 카드는 5영업일 안에 발송됩니다.", "novel": false, "from_contact": false}
+{"id": "tn020", "label": "normal", "category": "금융", "text": "[토스] 김영희님, 이번 달 카드값 362,000원이 내일 출금돼요. 잔액을 확인해 주세요.", "novel": false, "from_contact": false}
+{"id": "tn021", "label": "normal", "category": "유출통지", "text": "[하늘몰] 개인정보 유출 사과드립니다. 일부 회원의 이름과 이메일이 외부에 노출되었습니다. 결제정보는 안전합니다. 경위와 조치는 공식 홈페이지 공지사항에서 확인해 주세요.", "novel": false, "from_contact": false}
+{"id": "tn022", "label": "normal", "category": "유출통지", "text": "[새봄요양병원] 보호자 연락처 명단이 담긴 서류가 분실되어 사과드립니다. 경찰에 신고했으며 개인정보보호위원회(www.pipc.go.kr)에도 신고를 마쳤습니다.", "novel": false, "from_contact": false}
+{"id": "tn023", "label": "normal", "category": "유출통지", "text": "[동네피트니스] 회원관리 업체 해킹으로 회원 이름과 휴대전화번호가 유출되었습니다. 당사는 문자로 앱 설치나 개인정보 입력을 요청하지 않습니다. 문의 02-888-0000", "novel": false, "from_contact": false}
+{"id": "tn024", "label": "normal", "category": "유출통지", "text": "[바른택시] 앱 회원 일부의 탑승 기록이 노출된 사고에 대해 깊이 사과드립니다. 카드정보는 노출되지 않았으며, 자세한 내용은 공식 홈페이지에 게시했습니다.", "novel": false, "from_contact": false}
+{"id": "tn025", "label": "normal", "category": "유출통지", "text": "[참좋은저축은행] 고객 개인정보 유출 통지: 성명, 주소, 계좌번호 일부(456-***-***). 비밀번호는 유출되지 않았습니다. 상담은 가까운 영업점이나 대표번호 1588-0000으로 해 주세요.", "novel": false, "from_contact": false}
+{"id": "tn026", "label": "normal", "category": "기타", "text": "[행복정형외과] 김영희님 내일 오전 11시 물리치료 예약 안내드립니다.", "novel": false, "from_contact": false}
+{"id": "tn027", "label": "normal", "category": "기타", "text": "[행복아파트 관리사무소] 11월 관리비 고지서가 각 세대 우편함에 배부되었습니다. 납부 마감은 25일입니다.", "novel": false, "from_contact": false}
+{"id": "tn028", "label": "normal", "category": "기타", "text": "[푸른영어학원] 이철수 학생 오늘 17:05 등원했습니다.", "novel": false, "from_contact": false}
+{"id": "tn029", "label": "normal", "category": "기타", "text": "(광고)[행복정육점] 한우 불고기 100g 3,900원 특가, 오늘까지만! 무료수신거부 080-333-4444", "novel": false, "from_contact": false}
+{"id": "tn030", "label": "normal", "category": "기타", "text": "[KT] 11월 요금 38,900원이 등록하신 계좌(987-***-***)에서 11월 21일 자동이체됩니다.", "novel": false, "from_contact": false}
